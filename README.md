@@ -1,2 +1,3 @@
-# This is practicing Java with HackerRank
-## progress
+# HackerRank - Java
+## This is practicing Java with HackerRank
+### progress
