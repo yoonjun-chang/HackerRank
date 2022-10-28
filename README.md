@@ -2,7 +2,6 @@
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/yoonjun-chang/HackerRank.svg)](https://github.com/yoonjun-chang/HackerRank) 
 [![GitHub repo size in bytes](https://img.shields.io/github/repo-size/yoonjun-chang/HackerRank.svg)](https://github.com/yoonjun-chang/HackerRank) 
-[![GitHub stars](https://img.shields.io/github/stars/yoonjun-chang/HackerRank.svg)](https://github.com/yoonjun-chang/HackerRank)
 
 ### Progress
 
